@@ -1,0 +1,54 @@
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.AssemblyInfo.cs
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.deps.json
+E:\Courses\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.runtimeconfig.json
+E:\Courses\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.runtimeconfig.dev.json
+E:\Courses\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.dll
+E:\Courses\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.pdb
+E:\Courses\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.Data.dll
+E:\Courses\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.Data.pdb
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.csproj.CopyComplete
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.dll
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\refint\Courses.BL.dll
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.pdb
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.genruntimeconfig.cache
+E:\Courses\Courses_project\Courses.BL\obj\Debug\net5.0\ref\Courses.BL.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.deps.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.runtimeconfig.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.runtimeconfig.dev.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.Data.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.csproj.CopyComplete
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\refint\Courses.BL.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.genruntimeconfig.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses.BL\obj\Debug\net5.0\ref\Courses.BL.dll
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.deps.json
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.runtimeconfig.json
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.runtimeconfig.dev.json
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.dll
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.BL.pdb
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.Data.dll
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\bin\Debug\net5.0\Courses.Data.pdb
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.csproj.CopyComplete
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.dll
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\refint\Courses.BL.dll
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.pdb
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\Courses.BL.genruntimeconfig.cache
+C:\Users\ruang\Desktop\Courses_project\Courses.BL\obj\Debug\net5.0\ref\Courses.BL.dll

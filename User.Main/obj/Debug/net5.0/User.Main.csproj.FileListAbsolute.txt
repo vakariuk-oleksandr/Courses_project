@@ -1,0 +1,258 @@
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.AssemblyInfo.cs
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\appsettings.Development.json
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\appsettings.json
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.Main.StaticWebAssets.xml
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.Main.exe
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.Main.deps.json
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.Main.runtimeconfig.json
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.Main.runtimeconfig.dev.json
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.Main.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.Main.pdb
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\AutoMapper.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Dapper.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\FluentValidation.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Humanizer.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.BL.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.Data.dll
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.BL.pdb
+E:\Courses\Courses_project\User.Main\bin\Debug\net5.0\User.Data.pdb
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.MvcApplicationPartsAssemblyInfo.cs
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\scopedcss\bundle\User.Main.styles.css
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\staticwebassets\User.Main.StaticWebAssets.Manifest.cache
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\staticwebassets\User.Main.StaticWebAssets.xml
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.RazorTargetAssemblyInfo.cache
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.csproj.CopyComplete
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.dll
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\refint\User.Main.dll
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.pdb
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\User.Main.genruntimeconfig.cache
+E:\Courses\Courses_project\User.Main\obj\Debug\net5.0\ref\User.Main.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\appsettings.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.Main.StaticWebAssets.xml
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.Main.exe
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.Main.deps.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.Main.runtimeconfig.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.Main.runtimeconfig.dev.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.Main.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.Main.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Dapper.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.BL.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.BL.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\bin\Debug\net5.0\User.Data.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\scopedcss\bundle\User.Main.styles.css
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\staticwebassets\User.Main.StaticWebAssets.Manifest.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\staticwebassets\User.Main.StaticWebAssets.xml
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.RazorTargetAssemblyInfo.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.csproj.CopyComplete
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\refint\User.Main.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\User.Main.genruntimeconfig.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Main\obj\Debug\net5.0\ref\User.Main.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\appsettings.json
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.Main.StaticWebAssets.xml
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.Main.exe
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.Main.deps.json
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.Main.runtimeconfig.json
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.Main.runtimeconfig.dev.json
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.Main.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.Main.pdb
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Dapper.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.BL.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.Data.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.BL.pdb
+C:\Users\ruang\Desktop\Courses_project\User.Main\bin\Debug\net5.0\User.Data.pdb
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\scopedcss\bundle\User.Main.styles.css
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\staticwebassets\User.Main.StaticWebAssets.Manifest.cache
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\staticwebassets\User.Main.StaticWebAssets.xml
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.RazorTargetAssemblyInfo.cache
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.csproj.CopyComplete
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\refint\User.Main.dll
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.pdb
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\User.Main.genruntimeconfig.cache
+C:\Users\ruang\Desktop\Courses_project\User.Main\obj\Debug\net5.0\ref\User.Main.dll

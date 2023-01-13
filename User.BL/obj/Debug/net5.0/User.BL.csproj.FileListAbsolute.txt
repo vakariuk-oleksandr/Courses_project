@@ -1,0 +1,45 @@
+E:\Courses\Courses_project\User.BL\obj\Debug\net5.0\User.BL.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\User.BL\obj\Debug\net5.0\User.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\User.BL\obj\Debug\net5.0\User.BL.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\User.BL\obj\Debug\net5.0\User.BL.AssemblyInfo.cs
+E:\Courses\Courses_project\User.BL\obj\Debug\net5.0\User.BL.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\User.BL\bin\Debug\net5.0\User.BL.deps.json
+E:\Courses\Courses_project\User.BL\bin\Debug\net5.0\User.BL.dll
+E:\Courses\Courses_project\User.BL\bin\Debug\net5.0\User.BL.pdb
+E:\Courses\Courses_project\User.BL\bin\Debug\net5.0\User.Data.dll
+E:\Courses\Courses_project\User.BL\bin\Debug\net5.0\User.Data.pdb
+E:\Courses\Courses_project\User.BL\obj\Debug\net5.0\User.BL.csproj.CopyComplete
+E:\Courses\Courses_project\User.BL\obj\Debug\net5.0\User.BL.dll
+E:\Courses\Courses_project\User.BL\obj\Debug\net5.0\refint\User.BL.dll
+E:\Courses\Courses_project\User.BL\obj\Debug\net5.0\User.BL.pdb
+E:\Courses\Courses_project\User.BL\obj\Debug\net5.0\ref\User.BL.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\bin\Debug\net5.0\User.BL.deps.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\bin\Debug\net5.0\User.BL.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\bin\Debug\net5.0\User.BL.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\bin\Debug\net5.0\User.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\bin\Debug\net5.0\User.Data.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\obj\Debug\net5.0\User.BL.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\obj\Debug\net5.0\User.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\obj\Debug\net5.0\User.BL.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\obj\Debug\net5.0\User.BL.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\obj\Debug\net5.0\User.BL.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\obj\Debug\net5.0\User.BL.csproj.CopyComplete
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\obj\Debug\net5.0\User.BL.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\obj\Debug\net5.0\refint\User.BL.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\obj\Debug\net5.0\User.BL.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.BL\obj\Debug\net5.0\ref\User.BL.dll
+C:\Users\ruang\Desktop\Courses_project\User.BL\bin\Debug\net5.0\User.BL.deps.json
+C:\Users\ruang\Desktop\Courses_project\User.BL\bin\Debug\net5.0\User.BL.dll
+C:\Users\ruang\Desktop\Courses_project\User.BL\bin\Debug\net5.0\User.BL.pdb
+C:\Users\ruang\Desktop\Courses_project\User.BL\bin\Debug\net5.0\User.Data.dll
+C:\Users\ruang\Desktop\Courses_project\User.BL\bin\Debug\net5.0\User.Data.pdb
+C:\Users\ruang\Desktop\Courses_project\User.BL\obj\Debug\net5.0\User.BL.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Courses_project\User.BL\obj\Debug\net5.0\User.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Courses_project\User.BL\obj\Debug\net5.0\User.BL.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Courses_project\User.BL\obj\Debug\net5.0\User.BL.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Courses_project\User.BL\obj\Debug\net5.0\User.BL.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Courses_project\User.BL\obj\Debug\net5.0\User.BL.csproj.CopyComplete
+C:\Users\ruang\Desktop\Courses_project\User.BL\obj\Debug\net5.0\User.BL.dll
+C:\Users\ruang\Desktop\Courses_project\User.BL\obj\Debug\net5.0\refint\User.BL.dll
+C:\Users\ruang\Desktop\Courses_project\User.BL\obj\Debug\net5.0\User.BL.pdb
+C:\Users\ruang\Desktop\Courses_project\User.BL\obj\Debug\net5.0\ref\User.BL.dll

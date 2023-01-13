@@ -1,0 +1,36 @@
+E:\Courses\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.AssemblyInfo.cs
+E:\Courses\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\Courses_project.EventAutoBus\bin\Debug\net5.0\Courses_project.EventAutoBus.deps.json
+E:\Courses\Courses_project\Courses_project.EventAutoBus\bin\Debug\net5.0\Courses_project.EventAutoBus.dll
+E:\Courses\Courses_project\Courses_project.EventAutoBus\bin\Debug\net5.0\Courses_project.EventAutoBus.pdb
+E:\Courses\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.dll
+E:\Courses\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\refint\Courses_project.EventAutoBus.dll
+E:\Courses\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.pdb
+E:\Courses\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\ref\Courses_project.EventAutoBus.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\bin\Debug\net5.0\Courses_project.EventAutoBus.deps.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\bin\Debug\net5.0\Courses_project.EventAutoBus.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\bin\Debug\net5.0\Courses_project.EventAutoBus.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\refint\Courses_project.EventAutoBus.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\ref\Courses_project.EventAutoBus.dll
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\bin\Debug\net5.0\Courses_project.EventAutoBus.deps.json
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\bin\Debug\net5.0\Courses_project.EventAutoBus.dll
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\bin\Debug\net5.0\Courses_project.EventAutoBus.pdb
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.dll
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\refint\Courses_project.EventAutoBus.dll
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\Courses_project.EventAutoBus.pdb
+C:\Users\ruang\Desktop\Courses_project\Courses_project.EventAutoBus\obj\Debug\net5.0\ref\Courses_project.EventAutoBus.dll

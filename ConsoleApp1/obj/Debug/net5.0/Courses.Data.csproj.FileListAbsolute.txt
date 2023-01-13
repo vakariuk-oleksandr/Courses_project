@@ -1,0 +1,45 @@
+E:\Courses\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.AssemblyInfo.cs
+E:\Courses\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.deps.json
+E:\Courses\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.runtimeconfig.json
+E:\Courses\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.runtimeconfig.dev.json
+E:\Courses\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.dll
+E:\Courses\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.pdb
+E:\Courses\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.dll
+E:\Courses\Courses_project\ConsoleApp1\obj\Debug\net5.0\refint\Courses.Data.dll
+E:\Courses\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.pdb
+E:\Courses\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.genruntimeconfig.cache
+E:\Courses\Courses_project\ConsoleApp1\obj\Debug\net5.0\ref\Courses.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.deps.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.runtimeconfig.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.runtimeconfig.dev.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\obj\Debug\net5.0\refint\Courses.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.genruntimeconfig.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\ConsoleApp1\obj\Debug\net5.0\ref\Courses.Data.dll
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.deps.json
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.runtimeconfig.json
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.runtimeconfig.dev.json
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.dll
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\bin\Debug\net5.0\Courses.Data.pdb
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.dll
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\obj\Debug\net5.0\refint\Courses.Data.dll
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.pdb
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\obj\Debug\net5.0\Courses.Data.genruntimeconfig.cache
+C:\Users\ruang\Desktop\Courses_project\ConsoleApp1\obj\Debug\net5.0\ref\Courses.Data.dll

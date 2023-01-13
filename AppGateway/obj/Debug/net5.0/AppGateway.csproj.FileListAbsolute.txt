@@ -1,0 +1,7 @@
+E:\Courses\Courses_project\AppGateway\obj\Debug\net5.0\AppGateway.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\AppGateway\obj\Debug\net5.0\AppGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\AppGateway\obj\Debug\net5.0\AppGateway.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\AppGateway\obj\Debug\net5.0\AppGateway.AssemblyInfo.cs
+E:\Courses\Courses_project\AppGateway\obj\Debug\net5.0\AppGateway.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\AppGateway\obj\Debug\net5.0\AppGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Courses\Courses_project\AppGateway\obj\Debug\net5.0\AppGateway.MvcApplicationPartsAssemblyInfo.cache

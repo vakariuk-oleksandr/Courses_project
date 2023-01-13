@@ -1,0 +1,114 @@
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\appsettings.json
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\ocelot.Development.json
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\ocelot.json
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.staticwebassets.runtime.json
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.exe
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.deps.json
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.runtimeconfig.json
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.pdb
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\FluentValidation.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Ocelot.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Courses\Courses_project\AppGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.AssemblyInfo.cs
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\scopedcss\bundle\AppGateway.styles.css
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.csproj.CopyComplete
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.dll
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\refint\AppGateway.dll
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.pdb
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.genruntimeconfig.cache
+E:\Courses\Courses_project\AppGateway\obj\Debug\net6.0\ref\AppGateway.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\ocelot.Development.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.staticwebassets.runtime.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.exe
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.deps.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.runtimeconfig.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\scopedcss\bundle\AppGateway.styles.css
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.csproj.CopyComplete
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\refint\AppGateway.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.genruntimeconfig.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\AppGateway\obj\Debug\net6.0\ref\AppGateway.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\ocelot.Development.json
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.staticwebassets.runtime.json
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.exe
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.deps.json
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.runtimeconfig.json
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\AppGateway.pdb
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\scopedcss\bundle\AppGateway.styles.css
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.csproj.CopyComplete
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\refint\AppGateway.dll
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.pdb
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\AppGateway.genruntimeconfig.cache
+C:\Users\ruang\Desktop\Courses_project\AppGateway\obj\Debug\net6.0\ref\AppGateway.dll

@@ -1,0 +1,45 @@
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.AssemblyInfo.cs
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\User.Data\bin\Debug\net5.0\User.Data.deps.json
+E:\Courses\Courses_project\User.Data\bin\Debug\net5.0\User.Data.runtimeconfig.json
+E:\Courses\Courses_project\User.Data\bin\Debug\net5.0\User.Data.runtimeconfig.dev.json
+E:\Courses\Courses_project\User.Data\bin\Debug\net5.0\User.Data.dll
+E:\Courses\Courses_project\User.Data\bin\Debug\net5.0\User.Data.pdb
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.dll
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\refint\User.Data.dll
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.pdb
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.genruntimeconfig.cache
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\ref\User.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\bin\Debug\net5.0\User.Data.deps.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\bin\Debug\net5.0\User.Data.runtimeconfig.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\bin\Debug\net5.0\User.Data.runtimeconfig.dev.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\bin\Debug\net5.0\User.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\bin\Debug\net5.0\User.Data.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\obj\Debug\net5.0\User.Data.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\obj\Debug\net5.0\User.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\obj\Debug\net5.0\User.Data.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\obj\Debug\net5.0\User.Data.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\obj\Debug\net5.0\User.Data.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\obj\Debug\net5.0\User.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\obj\Debug\net5.0\refint\User.Data.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\obj\Debug\net5.0\User.Data.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\obj\Debug\net5.0\User.Data.genruntimeconfig.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\User.Data\obj\Debug\net5.0\ref\User.Data.dll
+C:\Users\ruang\Desktop\Courses_project\User.Data\bin\Debug\net5.0\User.Data.deps.json
+C:\Users\ruang\Desktop\Courses_project\User.Data\bin\Debug\net5.0\User.Data.runtimeconfig.json
+C:\Users\ruang\Desktop\Courses_project\User.Data\bin\Debug\net5.0\User.Data.runtimeconfig.dev.json
+C:\Users\ruang\Desktop\Courses_project\User.Data\bin\Debug\net5.0\User.Data.dll
+C:\Users\ruang\Desktop\Courses_project\User.Data\bin\Debug\net5.0\User.Data.pdb
+C:\Users\ruang\Desktop\Courses_project\User.Data\obj\Debug\net5.0\User.Data.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Courses_project\User.Data\obj\Debug\net5.0\User.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Courses_project\User.Data\obj\Debug\net5.0\User.Data.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Courses_project\User.Data\obj\Debug\net5.0\User.Data.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Courses_project\User.Data\obj\Debug\net5.0\User.Data.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Courses_project\User.Data\obj\Debug\net5.0\User.Data.dll
+C:\Users\ruang\Desktop\Courses_project\User.Data\obj\Debug\net5.0\refint\User.Data.dll
+C:\Users\ruang\Desktop\Courses_project\User.Data\obj\Debug\net5.0\User.Data.pdb
+C:\Users\ruang\Desktop\Courses_project\User.Data\obj\Debug\net5.0\User.Data.genruntimeconfig.cache
+C:\Users\ruang\Desktop\Courses_project\User.Data\obj\Debug\net5.0\ref\User.Data.dll

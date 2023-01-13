@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uOImKLOpPoDtsEi9A4/djZQIDI4IxPJnZ1+gpXv0fNVSdooHrlFt0yHhEgGG7DjxKRmszHvekJN/F7ogtEslrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ruang\\Desktop\\Courses_project\\Models.domain\\Models.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruang\\.nuget\\packages\\mongodb.bson\\2.16.0\\mongodb.bson.2.16.0.nupkg.sha512",
+    "C:\\Users\\ruang\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

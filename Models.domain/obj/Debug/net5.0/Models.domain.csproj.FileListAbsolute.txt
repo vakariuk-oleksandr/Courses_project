@@ -1,0 +1,36 @@
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.AssemblyInfo.cs
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.deps.json
+E:\Courses\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.dll
+E:\Courses\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.pdb
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.dll
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\refint\Models.domain.dll
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.pdb
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\ref\Models.domain.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.deps.json
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\obj\Debug\net5.0\refint\Models.domain.dll
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.pdb
+C:\Users\ruang\Desktop\Новая папка (2)\Courses_project\Models.domain\obj\Debug\net5.0\ref\Models.domain.dll
+C:\Users\ruang\Desktop\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.deps.json
+C:\Users\ruang\Desktop\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.dll
+C:\Users\ruang\Desktop\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.pdb
+C:\Users\ruang\Desktop\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.csproj.AssemblyReference.cache
+C:\Users\ruang\Desktop\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruang\Desktop\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.AssemblyInfoInputs.cache
+C:\Users\ruang\Desktop\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.AssemblyInfo.cs
+C:\Users\ruang\Desktop\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.csproj.CoreCompileInputs.cache
+C:\Users\ruang\Desktop\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.dll
+C:\Users\ruang\Desktop\Courses_project\Models.domain\obj\Debug\net5.0\refint\Models.domain.dll
+C:\Users\ruang\Desktop\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.pdb
+C:\Users\ruang\Desktop\Courses_project\Models.domain\obj\Debug\net5.0\ref\Models.domain.dll

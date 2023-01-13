@@ -1,0 +1,173 @@
+﻿{
+  "GloalConfiguration": {
+    "BaseUrl": "https://localhost:7001"
+  },
+  "Routes": [
+    //Teacher
+    {
+      "DownstreamPathTemplate": "/api/Teacher",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7291"
+        }
+      ],
+      "UpstreamPathTemplate": "/GetAllT",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Teacher",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7291"
+        }
+      ],
+      "UpstreamPathTemplate": "/PostT",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Teacher",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7291"
+        }
+      ],
+      "UpstreamPathTemplate": "/DelT",
+      "UpstreamHttpMethod": [ "DELETE" ]
+    },
+
+
+    //Courses    
+    {
+      "DownstreamPathTemplate": "/api/Courses",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7003"
+        }
+      ],
+      "UpstreamPathTemplate": "/GetAllC",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Courses",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7003"
+        }
+      ],
+      "UpstreamPathTemplate": "/PostC",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Courses",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7003"
+        }
+      ],
+      "UpstreamPathTemplate": "/DelC",
+      "UpstreamHttpMethod": [ "DELETE" ]
+    },
+
+    //Student
+    {
+      "DownstreamPathTemplate": "/api/Student/GetSbyId/{StudentID}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7002"
+        }
+      ],
+      "UpstreamPathTemplate": "/User/GetById/{StudentID}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Student",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7002"
+        }
+      ],
+      "UpstreamPathTemplate": "/GetAllS",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Student",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7002"
+        }
+      ],
+      "UpstreamPathTemplate": "/PostS",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Student",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "7002"
+        }
+      ],
+      "UpstreamPathTemplate": "/DelS",
+      "UpstreamHttpMethod": [ "DELETE" ]
+    },
+    //Agregation
+    {
+      "Key": "AggregateCourse",
+      "DownstreamPathTemplate": "/api/Courses/GetById/{CoursesID}",
+      "UpstreamPathTemplate": "/Courses/gateway/aggregate/{CoursesID}/{StudentID}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ],
+      "UpstreamHttpMethod": [
+        "Get"
+      ]
+    },
+    {
+      "Key": "AggregateStudent",
+      "DownstreamPathTemplate": "/api/Student/GetSbyId/{StudentID}",
+      "UpstreamPathTemplate": "/Student/gateway/aggregate/{CoursesID}/{StudentID}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ],
+      "UpstreamHttpMethod": [
+        "Get"
+      ]
+    }
+  ],
+  "Aggregates": [
+    {
+      "RouteKeys": [
+        "AggregateCourse",
+        "AggregateStudent"
+      ],
+      "UpstreamPathTemplate": "/gateway/aggregate/{CoursesID}/{StudentID}"
+    }
+  ]
+}
